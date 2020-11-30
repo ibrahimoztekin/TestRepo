@@ -1,2 +1,4 @@
 # TestRepo
-Test Amaçlıdır
+
+Test Amaçlıdır "Test"
+Test Amaclıdır
