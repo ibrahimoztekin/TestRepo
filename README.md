@@ -1,4 +1,3 @@
 # TestRepo
 
-Test Amaçlıdır "Test"
-Test Amaclıdır
+My first Test Project
